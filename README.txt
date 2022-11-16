@@ -1,0 +1,2 @@
+DATASET UTILIZADO https://www.tensorflow.org/datasets/catalog/cats_vs_dogs
+FORAM UTILIZADAS SOMENTE AS 500 PRIMEIRAS IMAGENS PARA TREINAMENTO
